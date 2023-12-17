@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JonThomas
-- 👀 I’m interested in software development
-- 🌱 I create software, currently learning ~~F#~~ Pyhton
+- 👀 I’m interested in trombone playing, and try to understand how some people are *really* good at some things
+- 🌱 I work in teams to create software for a living, currently learning ~~F#~~ Pyhton
 
 <!---
 JonThomas/JonThomas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
