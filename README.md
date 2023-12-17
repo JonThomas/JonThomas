@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JonThomas
 - 👀 I’m interested in software development
-- 🌱 I’m a .NET web develper and architect, currently learning F#
+- 🌱 I create software, currently learning ~~F#~~ Pyhton
 
 <!---
 JonThomas/JonThomas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
